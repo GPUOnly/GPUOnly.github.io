@@ -87,7 +87,7 @@ author:
   name             : "Aditya Atluri"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I flirt with GPUs"
-  location         : "Stuck between memory and alu"
+  location         : ""
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
